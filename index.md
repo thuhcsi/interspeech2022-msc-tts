@@ -62,7 +62,7 @@ To explore the impact of the multi-scale speaking style on the expressiveness an
 
 | Model | Target Chinese Text | Audio | Mel-Spectrogram |
 | :---- | :---- | :---- | :---: |
-| HCE | 明保听了大为高兴啊。 | <audio controls><source src="./wavs/casestudy/hce.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy/hce.png" width="25%"> |
-| GT | 因为大家一定要注意。 | <audio controls><source src="./wavs/casestudy/gt.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy/gt.png" width="25%"> |
-| Proposed | 因为大家一定要注意。 | <audio controls><source src="./wavs/casestudy/proposed.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy/proposed.png" width="25%"> |
+| HCE | 明保听了大为高兴啊。 | <audio controls><source src="./wavs/casestudy/hce.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy/hce.png" width="40%"> |
+| GT | 因为大家一定要注意。 | <audio controls><source src="./wavs/casestudy/gt.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy/gt.png" width="40%"> |
+| Proposed | 因为大家一定要注意。 | <audio controls><source src="./wavs/casestudy/proposed.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy/proposed.png" width="40%"> |
 
