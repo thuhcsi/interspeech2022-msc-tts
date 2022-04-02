@@ -8,7 +8,7 @@ Previous works on expressive speech synthesis focus on modelling the mono-scale 
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="./wavs/model.jpg">
+    src="./wavs/model.png">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -19,7 +19,7 @@ Previous works on expressive speech synthesis focus on modelling the mono-scale 
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="./wavs/extractor.jpg">
+    src="./wavs/extractor.png">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -30,7 +30,7 @@ Previous works on expressive speech synthesis focus on modelling the mono-scale 
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="./wavs/predictor.jpg">
+    src="./wavs/predictor.png">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
