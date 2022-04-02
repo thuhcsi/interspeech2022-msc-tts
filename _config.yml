@@ -1,6 +1,6 @@
 remote_theme: thuhcsi/slate
 title: Towards Multi-Scale Speaking Style Modelling with Hierarchical Context Information for Mandarin Speech Synthesis
 description: Submitted to Interspeech 2022.
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
