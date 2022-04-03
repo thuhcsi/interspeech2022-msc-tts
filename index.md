@@ -14,24 +14,6 @@ Previous works on expressive speech synthesis focus on modelling the mono-scale 
     padding: 2px;"> Fig.1: The architecture of our proposed model. </div>
 </center>
 
-<center>
-    <img style="border-radius: 0.3125em;box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" src="./wavs/extractor.png">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;"> Fig.2: The structure of the multi-scale style extractor. </div>
-</center>
-
-<center>
-    <img style="border-radius: 0.3125em;box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" src="./wavs/predictor.png">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;"> Fig.3: The structure of the multi-scale style predictor. </div>
-</center>
-
 # Subjective Evaluation 
 To demonstrate that our proposed model can significantly improve the naturalness and expressiveness of the synthesized speech, some samples are provided for comparison. **GT** means ground truth. **FastSpeech 2** means  an open-source implementation of FastSpeech 2. **WSV\*** means WSV with several changes which are described in detail in the paper.  And **HCE** means hierarchical context encoder (HCE) model, which predicts the style on global-level from the context. In addition, a well-trained HIFI-GAN is used as the vocoder to generate waveform.
 
