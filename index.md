@@ -15,7 +15,7 @@ Previous works on expressive speech synthesis focus on modelling the mono-scale 
 </center>
 
 # Subjective Evaluation 
-To demonstrate that our proposed model can significantly improve the naturalness and expressiveness of the synthesized speech, some samples are provided for comparison. **GT** means ground truth. **FastSpeech 2** means  an open-source implementation of FastSpeech 2. **WSV\*** means WSV with several changes which are described in detail in the paper.  And **HCE** means hierarchical context encoder (HCE) model, which predicts the style on global-level from the context. In addition, a well-trained HIFI-GAN is used as the vocoder to generate waveform.
+To demonstrate that our proposed model can significantly improve the naturalness and expressiveness of the synthesized speech, some samples are provided for comparison. **GT** means ground truth. **FastSpeech 2** means  an open-source implementation of FastSpeech 2. **WSV\*** means word-level style variations (WSV) model with several changes which are described in detail in the paper.  And **HCE** means hierarchical context encoder (HCE) model, which predicts the style on global-level from the context. In addition, a well-trained HIFI-GAN is used as the vocoder to generate waveform.
 
 | Target Chinese Text | GT | FastSpeech 2 | WSV* | HCE | Proposed |
 | :---- | :---: | :---- | :---- | :---- | ----- |
